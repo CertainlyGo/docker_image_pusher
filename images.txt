@@ -3,7 +3,7 @@ neo4j
 python
 node
 docker
-vllm-openai
-vllm-omni
-sglang
-ragflow
+vllm/vllm-openai
+vllm/vllm-omni
+Imsysorg/sglang
+infiniflow/ragflow
