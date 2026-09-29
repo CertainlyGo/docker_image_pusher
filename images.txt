@@ -14,3 +14,5 @@ redis
 nvidia/cuda
 pytorch/pytorch
 huggingface/transformers
+unsloth/unsloth
+hiyouga/llamafactory
