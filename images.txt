@@ -5,5 +5,5 @@ node
 docker
 vllm/vllm-openai
 vllm/vllm-omni
-Imsysorg/sglang
+lmsysorg/sglang
 infiniflow/ragflow
