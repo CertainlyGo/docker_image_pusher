@@ -1,5 +1,7 @@
 nginx
 neo4j
+elastic/elasticsearch
+bitnamicharts/minio
 python
 node
 docker
