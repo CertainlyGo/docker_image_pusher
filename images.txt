@@ -14,4 +14,4 @@ redis
 unsloth/unsloth
 hiyouga/llamafactory
 elastic/elasticsearch:8.19.22
-bitnamicharts/minio:17.0.21
+netvark/minio
