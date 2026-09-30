@@ -1,6 +1,6 @@
 nginx
 neo4j
-elastic/elasticsearch
+elastic/elasticsearch:8.19.22
 bitnamicharts/minio
 python
 node
